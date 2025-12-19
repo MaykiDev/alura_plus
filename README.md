@@ -14,15 +14,11 @@ Site desenvolvido com **HTML e CSS** para a aula da **Alura**.
 - HTML5
 - CSS3
 - JavaScript
-- PHP
 
 ---
 
 ## ✅ Funcionalidades
 - [x] Página inicial
-- [x] Formulário de contato
-- [x] Site responsivo
-- [x] Segurança
 
 ---
 
@@ -30,4 +26,4 @@ Site desenvolvido com **HTML e CSS** para a aula da **Alura**.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/MaykiDev/siteifct.github.io.git
+   git clone https://github.com/MaykiDev/alura_plus.git
